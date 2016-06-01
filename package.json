@@ -1,0 +1,23 @@
+{
+  "name": "curriculo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diego-Soares/Curriculo.git"
+  },
+  "author": "Diego Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diego-Soares/Curriculo/issues"
+  },
+  "homepage": "https://github.com/Diego-Soares/Curriculo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.0.6"
+  }
+}
