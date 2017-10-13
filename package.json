@@ -18,6 +18,9 @@
   "homepage": "https://github.com/Diego-Soares/Curriculo#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-ruby-sass": "^2.0.6"
+    "gulp-ruby-sass": "^1.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.1",
+     "gulp-uglifycss": "^1.0.6"
   }
 }
